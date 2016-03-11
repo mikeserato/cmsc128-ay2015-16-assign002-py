@@ -2,7 +2,7 @@
 
 Simple Bioinformatics Library
 
-Functions Included:
+##Functions Included:
 1. getHammingDistance
 2. countSubstrPattern
 3. isValidString
